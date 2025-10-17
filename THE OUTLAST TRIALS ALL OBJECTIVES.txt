@@ -219,6 +219,7 @@ Exit the Trial
 
 
 MK-Challenge 1: Get Out the Vote
+MK-Challenge 2: Disrupt the Neighborhood
 
 
 ========================================================================
@@ -227,10 +228,17 @@ MK-Challenge 1: Get Out the Vote
 TRIAL ENVIRONMENT 9: SHOPPING MALL
 PRIME ASSET: Otto and Arora Kress
 Main Trial: Kill the Politician
-Easterman's Brainwashing Quote: "”
+Easterman's Brainwashing Quote: "You are the cleansing flood that washes away the lies. If the people are allowed to choose leaders who poison the well of obedience with the bile of history, then we must drown those leaders in that self-same bile. Kill the politician, cleanse his bones of flesh, and we will let you out."
 OBJECTIVES:
-
-
+Gain Access to the Main Plaza
+Access the Department Store
+Win a Ticket
+Use the Ticket to Enter the Event
+Regroup to Fill the Fountain
+Fix the Water Pressure
+Fix the Fountain Valves
+Regroup to Fill the Fountain
+Execute The Politician
 Return to the Shuttle
 Wait for the Shuttle
 Exit the Trial
