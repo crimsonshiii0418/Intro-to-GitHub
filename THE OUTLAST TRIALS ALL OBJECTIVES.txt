@@ -1,0 +1,236 @@
+﻿THE OUTLAST TRIALS ALL OBJECTIVES
+
+
+TRIAL ENVIRONMENT 1: POLICE STATION
+PRIME ASSET: Leland Coyle
+Main Trial: Kill the Snitch
+Easterman's Brainwashing Quote: "You are the Exterminator, only we can tell you what is true, there is a Snitch inside the prison preparing to testify against our truth, Kill the Snitch and we will let you out"
+OBJECTIVES:
+Infiltrate the Police Station
+Reach the Security Room
+Get to the Snitch
+Push the Snitch
+Start the Generators in the Basement
+Get Back to the Snitch
+Push the Snitch
+Find the Key
+Find the Other Keys
+Electrocute the Snitch
+Return to the Shuttle
+Wait for the Shuttle
+Exit the Trial
+
+
+MK-Challenge 1: Cancel the Autopsy
+MK-Challenge 2: Sabotage the Lockdown
+MK-Challenge 3: Release the Prisoners
+MK-Challenge 4: Teach the Police Officer
+MK-Challenge 5: Eliminate the Past
+
+
+========================================================================
+
+
+TRIAL ENVIRONMENT 2: ORPHANAGE
+PRIME ASSET: Mother Gooseberry
+Main Trial: Cleanse the Orphans
+Easterman's Brainwashing Quote: "Education and faith must follow our mandates, Children will learn obedience, shape them young and their ours for life, teach the children, give them first communion and we will let you out"
+OBJECTIVES:
+Enter the Orphanage
+Reach the Radio Room
+Broadcast the Religious Station
+Tune Radio Receivers in the Dorms
+Return to the Reception Desk
+Swap Film Reels in Classrooms
+Return to the Reception Desk
+Stop the Blasphemers in the Chapel
+Find Saw Handles' Keys
+Power Up Generators
+Serve the Body of Christ
+Regroup in the Chapel
+Return to the Shuttle
+Wait for the Shuttle
+Exit the Trial
+
+
+MK-Challenge 1: Feed the Children
+MK-Challenge 2: Foster the Orphans
+MK-Challenge 3: Gather the Children of God
+MK-Challenge 4: Reunite the Family
+
+
+========================================================================
+
+
+TRIAL ENVIRONMENT 3: FUN PARK
+PRIME ASSET: Mother Gooseberry
+Main Trial: Grind the Bad Apples
+Easterman's Brainwashing Quote: "You are an adult, the youth will not obey our orders and must be corrected, there are children murdering adults in the root canal, punish the children and we will let you out"
+OBJECTIVES:
+Infiltrate the Fun Park
+Reach the Root Canal Ride
+Get Access to the Root Canal
+Regroup into the Root Canal
+Push the Boat
+Power Off the Barriers
+Raise the Water Level
+Push the Boat
+Return to the Shuttle
+Wait for the Shuttle
+Exit the Trial
+
+
+MK-Challenge 1: Punish the Miscreants
+MK-Challenge 2: Open the Gates
+MK-Challenge 3: Drill the Futterman
+MK-Challenge 4: Deface the Futtermans
+MK-Challenge 5: Redeem Your Freedom
+
+
+========================================================================
+
+
+TRIAL ENVIRONMENT 4: COURTHOUSE
+PRIME ASSET: Leland Coyle
+Main Trial: Vindicate the Guilty
+Easterman's Brainwashing Quote: "You are justice, you are loyal, we cannot allow the tyranny of facts and impartial reason to condemn the people who protect and guide you. The past is changeable the future is set, sabotage the court, kill the judge and we will let you out"
+OBJECTIVES:
+Infiltrate the Courthouse
+Reach the Courtroom
+Unlock the Evidence
+Drop the Evidence in the Fountain
+Gather Acid to Pour into the Fountain
+Destroy the Remaining Evidence
+Return to the Courtroom
+Kill the Witness
+Kill the Remaining Witnesses
+Return to the Courtroom
+Execute the Judge
+Return to the Shuttle
+Wait for the Shuttle
+Exit the Trial
+
+
+Main Trial: Vindicate the Guilty
+MK-Challenge 1: Escape the Courthouse
+MK-Challenge 2: Destroy the Evidence
+MK-Challenge 3: Tilt the Scales of Justice
+MK-Challenge 4: Fuel the Release
+MK-Challenge 5: Sentenced the Prosecuted
+
+
+========================================================================
+
+
+TRIAL ENVIRONMENT 5: TOY FACTORY
+PRIME ASSET: Mother Gooseberry
+Main Trial: Pervert the Futterman
+Easterman's Brainwashing Quote: "You are the revelator, what you build exposes the perversion latent in every heart. We cannot allow hidden messages and innuendo to corrupt our children. Expose, humiliate, and destroy the deviant, and we will let you out"
+OBJECTIVES:
+Infiltrate the Toy Factory
+Reach the Production Line
+Start the Production Line
+Unlock the Security System
+Find Wax Boxes in Storage
+Complete All Production Steps
+Reroute the Production Line
+Burn the Sex Toy
+Return to the Shuttle
+Wait for the Shuttle
+Exit the Trial
+
+
+MK-Challenge 1: Crush the Sex Toys
+MK-Challenge 2: Incinerate the Sex Toys
+MK-Challenge 3: Shutdown the Factory
+MK-Challenge 4: Fumigate the Factory
+
+
+========================================================================
+
+
+TRIAL ENVIRONMENT 6: DOCKS
+PRIME ASSET: Franco Barbi
+Main Trial: Poison the Medicine
+Easterman's Brainwashing Quote: "You are the surgeon's knife, and where you meet flesh, blood and pain must follow. We are the surgeon's medicine, who regulate pain and death. Poison the supply of those who would ease pain, and we will let you out"
+OBJECTIVES:
+Find the Drug Laboratory
+Start the Drug Production
+Put Drugs into the Cooker
+Push Cart to the Train Depot for Refilling
+Refill the Cart with Drugs
+Deliver the Cart to the Laboratory
+Put Drugs into the Cooker
+Put Poison into the Drugs
+Add Poison from the Chemical Storage
+Cut and Package the Poisoned Drugs
+Hide the Drugs in the Cargo Hold
+Return to the Shuttle
+Wait for the Shuttle
+Exit the Trial
+
+
+MK-Challenge 1: Empty the Vault
+MK-Challenge 2: Poison the Cattle
+MK-Challenge 3: Stash the Contraband
+MK-Challenge 4: Cook the Informant
+
+
+========================================================================
+
+
+TRIAL ENVIRONMENT 7: DOWNTOWN
+PRIME ASSET: Franco Barbi
+Main Trial: Pleasure the Prosecutor
+Easterman's Brainwashing Quote: "You are a gentle hand, and you are a crushing fist. You give pleasure when lust is the lubricant of power, you give pain when violence is the fountainhead of control. Replace the Prosecutor's whores with assassins, and we will let you out"
+OBJECTIVES:
+Gain Access to the Theater
+Explore the Theater
+Throw Away the Kinky Mannequins
+Find and Install the Sadist Mannequins
+Get the Remaining Sadist Mannequins
+Execute the District Attorney
+Return to the Shuttle
+Wait for the Shuttle
+Exit the Trial
+
+
+MK-Challenge 1: Kidnap the Mistress
+MK-Challenge 2: Spread the Disease
+
+
+========================================================================
+
+
+TRIAL ENVIRONMENT 8: SUBURBS
+PRIME ASSET: Franco Barbi
+Main Trial: Liquidate the Union
+Easterman's Brainwashing Quote: "You are the scab that heals the wound. The union is the putrescent sore that infects with notions of a livable wage and a survivable workplace. An example must be made. Kill the union boss, resume production, and we will let you out."
+OBJECTIVES:
+Reach The Town Hall
+Find the Union Boss In The Mansion
+Find A Way To Open The Panic Room
+Escort The Union Boss To The Factory
+Hit the Correct Safety Sign
+Drown The Union Boss
+Return to the Shuttle
+Wait for the Shuttle
+Exit the Trial
+
+
+MK-Challenge 1: Get Out the Vote
+
+
+========================================================================
+
+
+TRIAL ENVIRONMENT 9: SHOPPING MALL
+PRIME ASSET: Otto and Arora Kress
+Main Trial: Kill the Politician
+Easterman's Brainwashing Quote: "”
+OBJECTIVES:
+
+
+Return to the Shuttle
+Wait for the Shuttle
+Exit the Trial
